@@ -1,0 +1,8 @@
+{
+  "name": "physic-env",
+  "version": "1.0.0",
+  "description": "A package made to offer a low level and simple environment for any simulator or game",
+  "main": "index.js",
+  "author": "Oscann",
+  "license": "MIT"
+}
