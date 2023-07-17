@@ -1,8 +1,9 @@
 {
-  "name": "physic-env",
+  "name": "sim-env",
   "version": "1.0.0",
+  "type": "module",
   "description": "A package made to offer a low level and simple environment for any simulator or game",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "Oscann",
   "license": "MIT"
 }
